@@ -13,7 +13,7 @@
 
 - Currently I'm gainig expertize over DS and problem solving skills
 
-- Also mastering Front-end development
+- Leveraging my Front-end development skills
 
 - I love handling Python tools
 
