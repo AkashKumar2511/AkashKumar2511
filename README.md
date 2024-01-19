@@ -5,7 +5,7 @@
 
 <h1> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="48px"> About Me </h1>
 
-<img align="right" alt="Coding" width="400" src= "https://github.com/AkashKumar2511/AkashKumar2511/blob/main/90096298-b90f4b00-dd54-11ea-9a31-00ad53f8ec04.gif">
+<a href = "https://github.com/AkashKumar2511"><img align="right" alt="Coding" width="400" src= "https://github.com/AkashKumar2511/AkashKumar2511/blob/main/90096298-b90f4b00-dd54-11ea-9a31-00ad53f8ec04.gif"></a>
 
 - CS Pre-final year at GVPCOE(A)
 
