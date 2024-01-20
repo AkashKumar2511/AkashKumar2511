@@ -29,7 +29,7 @@
 
 <!--Coding Profiles-->
 ## 💻 Coding Profiles :
-<a href="https://www.leetcode.com/akash_kumar_sp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akash_kumar_sp" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/AkashKumar_SP" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="AkashKumar_SP" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/akashkumarsp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="akashkumarsp" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/akashkumar_sp" target="blank"><img align="center" src="https://avatars1.githubusercontent.com/u/11960354?s=460&v=4" alt="akashkumar_sp" height="30" width="40" /></a>
 
