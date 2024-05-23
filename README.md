@@ -11,9 +11,9 @@
 
 - I like learning things the easy way and practice them the hard way 😁
 
-- Leveraging my Front-end development skills :D
+- Leveraging my Back-end development skills :D
 
-- Gainig expertize over problem solving skills and working on CP
+- Gaining expertize over problem solving skills and working on CP
 
 - 📫 Reach me at **akashkumarsripatnala@gmail.com**
 
